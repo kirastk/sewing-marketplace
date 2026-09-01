@@ -5,7 +5,10 @@ designers for made-to-measure clothing and alterations.
 
 **Live product: [maestriaclub.ru](https://maestriaclub.ru)**
 
-![Maestria — home page](screenshots/home.png)
+![Maestria product demo](screenshots/maestria-demo.gif)
+
+*Walkthrough of the public site: home, master catalogue, a master's page and the
+repair price flow.*
 
 > Team project, actively developed. The source code lives in a private team
 > repository; this repo documents the product and my contribution to it.
@@ -40,6 +43,10 @@ The product is live with real master profiles and a working order pipeline.
 - Repair & alterations price list — order a fixed-price job in one tap
 
 ![Master catalogue](screenshots/catalog.png)
+
+A master's page — portfolio, terms, repair price list and reviews with replies:
+
+![Master page](screenshots/master.png)
 
 **Order pipeline**
 - Request → quote → agreement → in progress → fitting → done, with archive
