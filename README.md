@@ -59,7 +59,7 @@ A master's page — portfolio, terms, repair price list and reviews with replies
 ![Order pipeline demo](screenshots/order-pipeline.gif)
 
 *The full order flow, recorded in the running app: a customer sends a request with a
-reference photo and measurements, the master builds an itemised quote, the customer
+reference photo, the master builds an itemised quote, the customer
 approves the price, and the master sets a deadline and invites the customer to a
 fitting. Shown in the light theme; the site above is the dark one.*
 
