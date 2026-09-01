@@ -56,12 +56,18 @@ A master's page — portfolio, terms, repair price list and reviews with replies
 - One request to several masters at once, then compare quotes and pick one
 - Draft autosave and recovery, repeat orders, "My items" history with photos
 
-![Order pipeline demo](screenshots/order-pipeline.gif)
+Both sides of one order, recorded in the running app. Shown in the light theme —
+the public site above is the dark one.
 
-*The full order flow, recorded in the running app: a customer sends a request with a
-reference photo, the master builds an itemised quote, the customer
-approves the price, and the master sets a deadline and invites the customer to a
-fitting. Shown in the light theme; the site above is the dark one.*
+*Customer — find a master, send a request with a reference photo, then review the
+itemised quote and approve the price:*
+
+![Customer flow](screenshots/demo-customer.gif)
+
+*Master — accept the request, build the quote line by line, then set a deadline,
+invite the customer to a fitting and close the order:*
+
+![Master flow](screenshots/demo-master.gif)
 
 **Communication & trust**
 - In-order chat with attachments, quotes, edits, reactions and read receipts
